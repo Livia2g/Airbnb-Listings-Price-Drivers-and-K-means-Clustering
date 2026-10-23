@@ -1,5 +1,4 @@
-# Airbnb-Listings-Price-Drivers-and-K-means-Clustering
-
+# Airbnb Listings: Price Drivers and K-means Clustering
 ## Overview
 This project analyses a dataset of 279,712 Airbnb listings across several major cities to understand the main drivers of listing prices and how prices relate to location. It was completed as a group project for the Coding course at Bocconi University.
 
